@@ -68,6 +68,8 @@ We propose a symptom-based disease prediction chatbot powered by the Llama-2 mod
 
 ## Demonstration
 
+https://github.com/vlen4114/Intel-Unnati-Industrial-Training-2024/assets/113226055/7d062739-5aeb-412c-8875-a1ad1f3ba44c
+
 
 ## Conclusion
 
