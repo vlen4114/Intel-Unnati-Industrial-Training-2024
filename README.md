@@ -55,7 +55,7 @@ We propose a symptom-based disease prediction chatbot powered by the Llama-2 mod
 1. **Generate Predictions**:
    - Create a text generation pipeline to interpret input symptoms and generate disease predictions.
 
-### Tech Stack
+## Tech Stack
 
 - **Core Components**:
   - **Large Language Model**: Fine-tuned Llama-2.
