@@ -68,11 +68,10 @@ We propose a symptom-based disease prediction chatbot powered by the Llama-2 mod
 
 ## Conclusion
 
+![Screenshot 2024-07-08 222912](https://github.com/vlen4114/Intel-Unnati-Industrial-Training-2024/assets/113226055/d2ab0c0d-0828-45ce-b5df-2d786b2d8f25)
+
 In this project, we fine-tuned the Llama-2 model for disease symptom prediction, employing techniques such as Low-Rank Adaptation (LoRA) and 4-bit quantization via the BitsAndBytes library for optimized performance. The fine-tuned model, hosted on the Hugging Face Hub, demonstrates the potential of transformer-based models in the healthcare domain, providing a robust foundation for developing advanced tools for disease diagnosis and management.
 
-## Usage
-
-For detailed instructions on setting up the environment and running the model, refer to the [Installation Guide](./installation.md) and [User Manual](./user_manual.md).
 
 ---
 
