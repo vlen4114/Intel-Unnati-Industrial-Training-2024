@@ -78,6 +78,6 @@ In this project, we fine-tuned the Llama-2 model for disease symptom prediction,
 
 ---
 
-**Note**: This project leverages the capabilities of Intel® OpenVINO™ and transformer-based models to deliver an efficient and scalable solution for symptom-based disease prediction.
+**Note**: This project leverages the capabilities of transformer-based models to deliver an efficient and scalable solution for symptom-based disease prediction.
 
 
