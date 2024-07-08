@@ -1,8 +1,6 @@
-# Intel Unnati Industrial Training 2024
-Introduction to GenAI and Simple LLM Inference on CPU and finetuning of LLM Model to create a Custom Chatbot
+# Intel Unnati Industrial Training 2024 - Disease Symptom Prediction Chatbot Using Llama-2-7b through Intel Extension for Transformers
+PS04: Introduction to GenAI and Simple LLM Inference on CPU and finetuning of LLM Model to create a Custom Chatbot
 
-
-## Disease Symptom Prediction Chatbot Using Llama-2 through Intel Extension for Transformers
 
 ## Problem Statement
 
