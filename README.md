@@ -79,10 +79,11 @@ In this project, we fine-tuned the Llama-2 model for disease symptom prediction,
 
 
 ---
-- The project was submitted for the **Intel Unnati Industrial Training Programme 2024** by Team **ByteTribe** of **SRM Institute of Science and Technology, Chennai**.
-   - Team Members:
-   - 1)**Vasan Lennin**(Leader)
-   - 2)**Gudimella Saketa Sri Ramacharyulu**
+- The project was submitted for the **Intel Unnati Industrial Training Programme 2024** by Team **ByteTribe** of **SRM Institute of Science and Technology, Chennai**. Team Members:
+   - 1) **Vasan Lennin**(Leader)
+   - 2) **Gudimella Saketa Sri Ramacharyulu**
+
+- **Credits**: (`kaleem11/Disease_Symptom_Prediction_v5`) from huggingface hub for the initial dataset.
 
 - **Note**: This project leverages the capabilities of transformer-based models to deliver a scalable solution for symptom-based disease prediction. Since the present model is trained over limited dataset, therefore it is better to consult a medical professional to get more accurate diagnosis and to undergo proper treatment for the same.
 
