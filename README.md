@@ -70,24 +70,6 @@ We propose a symptom-based disease prediction chatbot powered by the Llama-2 mod
 
 https://github.com/vlen4114/Intel-Unnati-Industrial-Training-2024/assets/113226055/7d062739-5aeb-412c-8875-a1ad1f3ba44c
 
-- **Input**:
-   - prompt = "my Symptoms are fatigue cough high fever breathlessness mucoid sputum"
-
-- **Output**:
-- Thank you for sharing your symptoms with me. nobody. Based on the information you provided, it seems that you may be experiencing a respiratory infection or exacerbation. Here are some possible causes and next steps you can take:
-
-1. Respiratory infection: The symptoms you described, such as fatigue, cough, high fever, breathlessness, and mucoid sputum, are common symptoms of a respiratory infection. This could be caused by a virus or bacteria, such as pneumonia or bronchitis.
-2. Asthma exacerbation: If you have a history of asthma, your symptoms could be related to an asthma exacerbation. This can cause wheezing, coughing, shortness of breath, and chest tightness.
-3. Chronic obstructive pulmonary disease (COPD): COPD is a chronic lung disease that can cause breathlessness, coughing, and wheezing. If you have a history of smoking or exposure to pollutants, you may be at risk for developing COPD.
-
-To determine the cause of your symptoms, it's important to see a healthcare professional for a proper evaluation. They may perform a physical examination, take a medical history, and order diagnostic tests such as a chest X-ray or pulmonary function tests. These tests can help identify any underlying conditions and determine the best course of treatment.
-
-In the meantime, here are some things you can do to help manage your symptoms:
-
-1. Stay hydrated: Drink plenty of fluids, such as water or tea, to help loosen mucus and make it easier to cough up.
-2. Use a humidifier: Dry air can irritate the throat and lungs, making symptoms worse. Using a humidifier can help add moisture to the air and relieve congestion.
-3. Take over-the-counter medications: Cough suppressants, such as dextromethorphan, can help relieve coughing
-
 
 ## Conclusion
 
@@ -97,6 +79,11 @@ In this project, we fine-tuned the Llama-2 model for disease symptom prediction,
 
 
 ---
+The project was submitted for the *Intel Unnati Industrial Training Programme 2024* by Team *ByteTribe* of *SRM Institute of Science and Technology, Chennai*.
+   Team Members:
+   1)Vasan Lennin(Leader)
+   2)Gudimella Saketa Sri Ramacharyulu
 
 **Note**: This project leverages the capabilities of transformer-based models to deliver a scalable solution for symptom-based disease prediction. Since the present model is trained over limited dataset, therefore it is better to consult a medical professional to get more accurate diagnosis and to undergo proper treatment for the same.
+
 
