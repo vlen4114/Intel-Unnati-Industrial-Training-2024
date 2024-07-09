@@ -74,11 +74,11 @@ https://github.com/vlen4114/Intel-Unnati-Industrial-Training-2024/assets/1132260
 prompt = "my Symptoms are fatigue cough high fever breathlessness mucoid sputum"
 
 **Output**:
-<s>[INST] my Symptoms are fatigue cough high fever breathlessness mucoid sputum [/INST]  Thank you for sharing your symptoms with me. nobody. Based on the information you provided, it seems that you may be experiencing a respiratory infection or exacerbation. Here are some possible causes and next steps you can take:
+-Thank you for sharing your symptoms with me. nobody. Based on the information you provided, it seems that you may be experiencing a respiratory infection or exacerbation. Here are some possible causes and next steps you can take:
 
-1. Respiratory infection: The symptoms you described, such as fatigue, cough, high fever, breathlessness, and mucoid sputum, are common symptoms of a respiratory infection. This could be caused by a virus or bacteria, such as pneumonia or bronchitis.
-2. Asthma exacerbation: If you have a history of asthma, your symptoms could be related to an asthma exacerbation. This can cause wheezing, coughing, shortness of breath, and chest tightness.
-3. Chronic obstructive pulmonary disease (COPD): COPD is a chronic lung disease that can cause breathlessness, coughing, and wheezing. If you have a history of smoking or exposure to pollutants, you may be at risk for developing COPD.
+-1. Respiratory infection: The symptoms you described, such as fatigue, cough, high fever, breathlessness, and mucoid sputum, are common symptoms of a respiratory infection. This could be caused by a virus or bacteria, such as pneumonia or bronchitis.
+-2. Asthma exacerbation: If you have a history of asthma, your symptoms could be related to an asthma exacerbation. This can cause wheezing, coughing, shortness of breath, and chest tightness.
+-3. Chronic obstructive pulmonary disease (COPD): COPD is a chronic lung disease that can cause breathlessness, coughing, and wheezing. If you have a history of smoking or exposure to pollutants, you may be at risk for developing COPD.
 
 To determine the cause of your symptoms, it's important to see a healthcare professional for a proper evaluation. They may perform a physical examination, take a medical history, and order diagnostic tests such as a chest X-ray or pulmonary function tests. These tests can help identify any underlying conditions and determine the best course of treatment.
 
