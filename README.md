@@ -26,7 +26,7 @@ We propose a symptom-based disease prediction chatbot powered by the Llama-2 mod
    - Install essential Python packages: `accelerate`, `peft`, `bitsandbytes`, `transformers`, and `trl`.
 
 2. **Define Variables**:
-   - Set key variables like the model name (`NousResearch/Llama-2-7b-chat-hf`), dataset name (`vl8222/Disease_Symptom_Prediction_v5-1k`), and fine-tuned model name (`Llama-2-7b-chat-finetune-for-disease-prediction`).
+   - Set key variables like the model name (`NousResearch/Llama-2-7b-chat-hf`), dataset name (`vl8222/Disease_Symptom_Prediction_v5-275`), and fine-tuned model name (`Llama-2-7b-chat-finetune-for-disease-prediction`).
 
 ### Hugging Face Authorization
 
