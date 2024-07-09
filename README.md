@@ -89,7 +89,6 @@ In the meantime, here are some things you can do to help manage your symptoms:
 3. Take over-the-counter medications: Cough suppressants, such as dextromethorphan, can help relieve coughing
 
 
-
 ## Conclusion
 
 ![Screenshot 2024-07-08 222912](https://github.com/vlen4114/Intel-Unnati-Industrial-Training-2024/assets/113226055/d2ab0c0d-0828-45ce-b5df-2d786b2d8f25)
